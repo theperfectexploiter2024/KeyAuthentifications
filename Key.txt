@@ -1,0 +1,3 @@
+local keyA = "KEYAUTH-PREMIUM-IM-JUST-THE-BEST-EXPLOITER-2024"
+
+return keyA
